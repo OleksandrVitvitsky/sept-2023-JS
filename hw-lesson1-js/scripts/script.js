@@ -63,4 +63,5 @@ console.log('type of "c" is ' + typeof c);
 firstName   = prompt('enter your first name?','');
 middleName  = prompt('enter your middle name?','');
 lastName    = prompt('enter your last name?','');
-console.log(`Hey! How is it going, ${firstName} ${middleName} ${lastName}? :)`);
+let age = +prompt('enter your age?');
+console.log(`My name is ${firstName} ${middleName} ${lastName}. \nI'm ${age}. :)`);
