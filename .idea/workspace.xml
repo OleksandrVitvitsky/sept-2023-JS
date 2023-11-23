@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="add hw lesson 1 JS. 1">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson2-js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson2-js/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sept-2023-JS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson1-js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson1-js/index.html" afterDir="false" />
+    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="add hw lesson 2 JS. 1">
+      <change afterPath="$PROJECT_DIR$/hw-lesson2-js/scripts/script1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-lesson2-js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson2-js/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +63,8 @@
       <workItem from="1700508898480" duration="54000" />
       <workItem from="1700509013293" duration="2276000" />
       <workItem from="1700519115017" duration="244000" />
-      <workItem from="1700685428508" duration="7728000" />
+      <workItem from="1700685428508" duration="8133000" />
+      <workItem from="1700731147375" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="add hw lesson 1 JS">
       <option name="closed" value="true" />
@@ -88,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700519344679</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add hw lesson 2 JS. 1">
+      <option name="closed" value="true" />
+      <created>1700693600134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700693600134</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +99,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hw lesson 1 JS" />
     <MESSAGE value="add hw lesson 1 JS. 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw lesson 1 JS. 1" />
+    <MESSAGE value="add hw lesson 2 JS. 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw lesson 2 JS. 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
