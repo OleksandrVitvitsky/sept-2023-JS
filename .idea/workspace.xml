@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="add hw lesson 2 JS. 2">
+    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="add hw lesson 3 JS.1">
+      <change afterPath="$PROJECT_DIR$/hw-lesson4-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson4-js/scripts/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson2-js/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson2-js/scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson2-js/scripts/script1.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OleksandrVitvitsky&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6214767c-9a40-423d-b6c1-968d18749608" />
+        <option name="url" value="https://github.com/OleksandrVitvitsky/sept-2023-JS.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -36,22 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/iCloudDrive/JS Complex Lessons/Lections OKten sept-2023/!HomeWork/sept-2023-JS/sept-2023-JS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +84,8 @@
       <workItem from="1700509013293" duration="2276000" />
       <workItem from="1700519115017" duration="244000" />
       <workItem from="1700685428508" duration="8133000" />
-      <workItem from="1700731147375" duration="3987000" />
+      <workItem from="1700731147375" duration="14377000" />
+      <workItem from="1701361821467" duration="3265000" />
     </task>
     <task id="LOCAL-00001" summary="add hw lesson 1 JS">
       <option name="closed" value="true" />
@@ -98,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700752519132</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add hw lesson 2 JS. 3">
+      <option name="closed" value="true" />
+      <created>1701031375620</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701031375620</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add hw lesson 3 JS.1">
+      <option name="closed" value="true" />
+      <created>1701186822148</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701186822148</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +146,9 @@
     <MESSAGE value="add hw lesson 1 JS. 1" />
     <MESSAGE value="add hw lesson 2 JS. 1" />
     <MESSAGE value="add hw lesson 2 JS. 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw lesson 2 JS. 2" />
+    <MESSAGE value="add hw lesson 2 JS. 3" />
+    <MESSAGE value="add hw lesson 3 JS.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw lesson 3 JS.1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
