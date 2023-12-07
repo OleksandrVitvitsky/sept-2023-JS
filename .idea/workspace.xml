@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="add hw lesson 4 JS.1">
-      <change afterPath="$PROJECT_DIR$/hw-lesson5 -js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson5 -js/scripts/script.js" afterDir="false" />
+    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="add hw lesson 5 JS.1">
+      <change afterPath="$PROJECT_DIR$/hw-lesson6 -js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson6 -js/scripts/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/iCloudDrive/JS Complex Lessons/Lections OKten sept-2023/!HomeWork/sept-2023-JS/sept-2023-JS/hw-lesson5 -js",
+    "last_opened_file_path": "D:/iCloudDrive/JS Complex Lessons/Lections OKten sept-2023/!HomeWork/sept-2023-JS/sept-2023-JS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,8 +69,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson5 -js" />
       <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS" />
+      <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson5 -js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,7 +87,8 @@
       <workItem from="1700685428508" duration="8133000" />
       <workItem from="1700731147375" duration="14377000" />
       <workItem from="1701361821467" duration="3674000" />
-      <workItem from="1701792741862" duration="1396000" />
+      <workItem from="1701792741862" duration="1506000" />
+      <workItem from="1701962891551" duration="6928000" />
     </task>
     <task id="LOCAL-00001" summary="add hw lesson 1 JS">
       <option name="closed" value="true" />
@@ -145,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701365358565</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add hw lesson 5 JS.1">
+      <option name="closed" value="true" />
+      <created>1701794204267</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701794204267</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +168,8 @@
     <MESSAGE value="add hw lesson 2 JS. 3" />
     <MESSAGE value="add hw lesson 3 JS.1" />
     <MESSAGE value="add hw lesson 4 JS.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw lesson 4 JS.1" />
+    <MESSAGE value="add hw lesson 5 JS.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw lesson 5 JS.1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
