@@ -166,8 +166,8 @@ for (const suit of arrSuits) {
     }
     for (const cardRang of arrCards) {
         Koloda.push({
-            Suit: suit,
-            Rang: cardRang,
+            suit: suit,
+            rang: cardRang,
             color: color
         });
     }
