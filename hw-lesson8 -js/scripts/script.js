@@ -50,7 +50,7 @@ const Clients = Users.map(item => item);  /// !!! використав існу�
 
 for (let i = 0; i < Clients.length; i++) {
         let quantItems =    Math.floor(((((Clients[i].name.length*5) + Clients[i].surname.length) / 2) + Clients[i].id));
-        let orderItems = new Array();
+        let orderItems = [];
         for (let j = 0; j < quantItems; j++) {
                 orderItems.push(`product-${j}`);               
         }
