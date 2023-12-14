@@ -177,16 +177,16 @@ class CreatePopelushka{
 
 let arrayGirls = [];
 arrayGirls.push(
-    new CreatePopelushka('Olga', 31, 35),
-    new CreatePopelushka('Alisa', 47, 41),
-    new CreatePopelushka('Tanya', 23, 38),
-    new CreatePopelushka('Sonya',18, 37),
-    new CreatePopelushka('Vika', 35, 32),
-    new CreatePopelushka('Svitlana', 36, 41),
-    new CreatePopelushka('Katya', 26,35),
-    new CreatePopelushka('Olena',50 , 40),
-    new CreatePopelushka('Alina',33,33),
-    new CreatePopelushka('Anna',32,38));
+    new CreatePopelushka('Маша', 31, 35),
+    new CreatePopelushka('Соня', 47, 41),
+    new CreatePopelushka('Катя', 23, 38),
+    new CreatePopelushka('Рома',18, 37),
+    new CreatePopelushka('Оля', 35, 32),
+    new CreatePopelushka('Іра', 36, 41),
+    new CreatePopelushka('Олена', 26,35),
+    new CreatePopelushka('Аліна',50 , 40),
+    new CreatePopelushka('Саша',33,33),
+    new CreatePopelushka('Віка',32,38));
 
 class CreatePrince{
         constructor (name, age, size) {
