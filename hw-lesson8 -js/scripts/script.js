@@ -204,4 +204,4 @@ for (const element of arrayGirls) {
         }
 }
 let findedGirl = arrayGirls.find(item => item.footSize === prince.size );
-console.log(`Знайшли попелюшку (функція find)  - ${findedGirl.name}`)
+console.log(`Знайшли попелюшку (функція find)  - ${findedGirl.name}`);
