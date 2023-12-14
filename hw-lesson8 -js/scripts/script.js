@@ -107,14 +107,14 @@ function CreateCar(model, producer, year, maxSpeed, engine) {
                 this.driver = {driverName, driverAge};
         };
 }
-let Suzik = new CreateCar('Suzuki','Suzuki Japan',2018,180, 1599);
+let suzik = new CreateCar('Suzuki','Suzuki Japan',2018,180, 1599);
 
-Suzik.getDrive();
-Suzik.increaseMaxSpeed(220);
-Suzik.getDrive();
-Suzik.changeYear(2022);
-Suzik.addDriver('Masha',95);
-Suzik.info();
+suzik.getDrive();
+suzik.increaseMaxSpeed(220);
+suzik.getDrive();
+suzik.changeYear(2022);
+suzik.addDriver('Masha',95);
+suzik.info();
 
 
 
@@ -125,10 +125,83 @@ Suzik.info();
 // -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
 // -- changeYear (newValue) - змінює рік випуску на значення newValue
 // -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і додає його в поточний об'єкт car
-//
-//
-//
+
+
+class _CreateCar {
+        constructor(model, producer, year, maxSpeed, engine) {
+                this.model = model;
+                this.year = year;
+                this.maxSpeed = maxSpeed;
+                this.engine = engine;
+        }
+        getDrive ()  {
+                console.log(`Їдемо зі швидкістю ${this.maxSpeed} на годину!`);
+        }
+        info() {
+                console.log('About this car:');
+                writeAboutCar(this);
+        }
+        increaseMaxSpeed(newSpeed) {
+                this.maxSpeed = newSpeed;
+        }
+        changeYear(newValue) {
+                this.year = newValue;
+        }
+        addDriver (driverName, driverAge) {
+                this.driver = {driverName, driverAge};
+        };
+}
+
+let mazda = new _CreateCar('Mazda RX-7','Mazda',2023,380, 4599);
+
+mazda.getDrive();
+mazda.increaseMaxSpeed(888);
+mazda.getDrive();
+mazda.changeYear(2000);
+mazda.addDriver('Nick',18);
+mazda.info();
+
 // -створити класс/функцію конструктор попелюшка з полями ім'я, вік, розмір ноги. Створити масив з 10 попелюшок.
+
 // Сторити об'єкт класу "принц" за допомоги класу який має поля ім'я, вік, туфелька яку він знайшов.
 //     За допомоги циклу знайти яка попелюшка повинна бути з принцом.
 //     Додатково, знайти необхідну попелюшку за допомоги функції масиву find та відповідного колбеку
+
+class CreatePopelushka{
+        constructor (name, age, footSize) {
+                this.name = name;
+                this.age = age;
+                this.footSize = footSize;
+        }
+}
+
+let arrayGirls = [];
+arrayGirls.push(
+    new CreatePopelushka('Olga', 31, 35),
+    new CreatePopelushka('Alisa', 47, 41),
+    new CreatePopelushka('Tanya', 23, 38),
+    new CreatePopelushka('Sonya',18, 37),
+    new CreatePopelushka('Vika', 35, 32),
+    new CreatePopelushka('Svitlana', 36, 41),
+    new CreatePopelushka('Katya', 26,35),
+    new CreatePopelushka('Olena',50 , 40),
+    new CreatePopelushka('Alina',33,33),
+    new CreatePopelushka('Anna',32,38));
+
+class CreatePrince{
+        constructor (name, age, size) {
+                this.name = name;
+                this.age = age;
+                this.size = size;
+        }
+}
+
+let prince = new CreatePrince('Bob',90, 32);
+
+for (const element of arrayGirls) {
+        if (element.footSize === prince.size){
+                console.log(`Знайшли попелюшку ))  - ${element.name}`);
+        }
+}
+let findedGirl = arrayGirls.find(item => item.footSize === prince.size );
+console.log(`Знайшли попелюшку (функція find)  - ${findedGirl.name}`)
