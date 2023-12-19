@@ -163,7 +163,9 @@ for (const item of simpsons) {
     boxSimpson.appendChild(img);
 
     let nameHero = document.createElement('h2');
-    nameHero.innerHTML = `<u>${item.name} ${item.surname} (${item.age} років)</u>`;
+    let years = 'років';
+    let year = 'рік';
+    nameHero.innerHTML = `<u>${item.name} ${item.surname} (${item.age}  ${  item.age === 1 ? year : years })</u>`;
     boxSimpson.appendChild(nameHero);
 
     let infoHero = document.createElement('p');
@@ -177,3 +179,114 @@ for (const item of simpsons) {
 //
 // Створити для кожного елементу масиву свій блок, блок розділити блоками, в яких будуть зберігатись значення окремих властивостей, для властивості modules зробити список з елементами
 // Приклад структири знаходиться у файлі example.png який лежить в папці з поточним фйлом
+
+let coursesArray = [
+    {
+        title: 'JavaScript Complex',
+        monthDuration: 5,
+        hourDuration: 909,
+        modules: ['html', 'css', 'js', 'mysql', 'mongodb', 'react', 'angular', 'aws', 'docker', 'git', 'node.js']
+    },
+    {
+        title: 'Java Complex',
+        monthDuration: 6,
+        hourDuration: 909,
+        modules: ['html',
+            'css',
+            'js',
+            'mysql',
+            'mongodb',
+            'angular',
+            'aws',
+            'docker',
+            'git',
+            'java core',
+            'java advanced']
+    },
+    {
+        title: 'Python Complex',
+        monthDuration: 6,
+        hourDuration: 909,
+        modules: ['html',
+            'css',
+            'js',
+            'mysql',
+            'mongodb',
+            'angular',
+            'aws',
+            'docker',
+            'python core',
+            'python advanced']
+    },
+    {
+        title: 'QA Complex',
+        monthDuration: 4,
+        hourDuration: 909,
+        modules: ['html', 'css', 'js', 'mysql', 'mongodb', 'git', 'QA/QC']
+    },
+    {
+        title: 'FullStack',
+        monthDuration: 7,
+        hourDuration: 909,
+        modules: ['html',
+            'css',
+            'js',
+            'mysql',
+            'mongodb',
+            'react',
+            'angular',
+            'aws',
+            'docker',
+            'git',
+            'node.js',
+            'python',
+            'java']
+    },
+    {
+        title: 'Frontend',
+        monthDuration: 4,
+        hourDuration: 909,
+        modules: ['html', 'css', 'js', 'mysql', 'mongodb', 'react', 'angular', 'aws', 'docker', 'git', 'sass']
+    }
+];
+
+let mainWrap = document.createElement('div');
+mainWrap.classList.add('main');
+document.body.appendChild(mainWrap);
+
+for (const item of coursesArray) {
+    let item_box = document.createElement('div');
+    item_box.classList.add('item-box');
+
+    let title = document.createElement('h2');
+    title.innerText = `Курс: ${item.title}`;
+    item_box.appendChild(title);
+
+
+    let duration_box = document.createElement('div');
+    let duration_mounth = document.createElement('div');
+    duration_mounth.innerHTML = `<span>${item.monthDuration} місяців навчання</span>`;
+    duration_box.appendChild(duration_mounth);
+
+    let duration_hours = document.createElement('div');
+    duration_hours.innerHTML = `<span>${item.hourDuration} академічних годин</span>`;
+    duration_box.appendChild(duration_hours);
+    item_box.appendChild(duration_box);
+
+    let modules_box = document.createElement('div');
+    let modules_title = document.createElement('h3');
+    modules_title.innerText = 'Перелік модулів, які вивчите:';
+    modules_box.appendChild(modules_title);
+
+    let modules_list = document.createElement('ul');
+    let modules = item.modules;
+    for (const module of modules) {
+        let li = document.createElement('li');
+        li.innerText = `${module}`
+        modules_list.appendChild(li);
+    }
+
+    modules_box.appendChild(modules_list);
+    item_box.appendChild(modules_box);
+    mainWrap.appendChild(item_box);
+}

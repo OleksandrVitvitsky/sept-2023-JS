@@ -2,3 +2,12 @@
 .boxWidth{
     width: 60%;
 }
+.main{
+    align-items: center;
+    margin-top: 50px;
+}
+
+.flexBox{
+    display: flex;
+    justify-content: space-evenly;
+}
