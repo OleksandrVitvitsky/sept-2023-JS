@@ -154,9 +154,9 @@ formUserForm.onsubmit = function (e) {
     newUser.getUser();
 }
 
-document.getElementsByClassName('button')[0].onclick = function(event) {
-    window.location.href = 'task2.html';
-};
+document.getElementsByClassName('btn')[0].addEventListener('click',function (){
+    window.location.href = 'task2.html'; 
+});
 //// НАСТУПНЕ ЗАВДАННЯ В ФАЙЛІ TASK2.HTML
 
 // ==========================

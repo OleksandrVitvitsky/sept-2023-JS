@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="add hw lesson 9 JS.2">
-      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/scripts/script__task2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/style__task1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/style__task2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/task2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson9 -js (dom)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson9 -js (dom)/scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson9 -js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson9 -js/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson9 -js/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson9 -js (dom)/styles/styles.css" afterDir="false" />
+    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="add hw lesson 10 JS.1">
+      <change beforePath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/scripts/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +94,7 @@
       <workItem from="1702333961862" duration="430000" />
       <workItem from="1702500674638" duration="7546000" />
       <workItem from="1702570692565" duration="9717000" />
-      <workItem from="1703000378928" duration="18332000" />
+      <workItem from="1703000378928" duration="18665000" />
     </task>
     <task id="LOCAL-00001" summary="add hw lesson 1 JS">
       <option name="closed" value="true" />
@@ -217,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703001541056</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add hw lesson 10 JS.1">
+      <option name="closed" value="true" />
+      <created>1703121106517</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703121106517</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +236,8 @@
     <MESSAGE value="add hw lesson 6 JS.3" />
     <MESSAGE value="add hw lesson 6 JS.4" />
     <MESSAGE value="add hw lesson 9 JS.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw lesson 9 JS.2" />
+    <MESSAGE value="add hw lesson 10 JS.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw lesson 10 JS.1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
