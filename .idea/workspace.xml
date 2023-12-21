@@ -4,31 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="add hw lesson 10 JS.3">
-      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/cons -js 10 (events storag)/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson5 -js (call-b func)/cons 5 -js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson5 -js (call-b func)/cons 5 -js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson5 -js (call-b func)/resolve 5 -js (callB func)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson5 -js (call-b func)/resolve 5 -js (callB func)/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson6 -js (arr metods)/cons 6 -js (arr metod)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson6 -js (arr metods)/cons 6 -js (arr metod)/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson6 -js (arr metods)/resolve 6 -js (arr metods)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson6 -js (arr metods)/resolve 6 -js (arr metods)/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson8 -js (func cons - classes)/cons 8 -js (constructors)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson8 -js (func cons - classes)/cons 8 -js (constructors)/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson8 -js (func cons - classes)/resolve 8- js (func)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson8 -js (func cons - classes)/resolve 8- js (func)/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson9 -js (dom)/cons 9 -js (dom)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson9 -js (dom)/cons 9 -js (dom)/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson9 -js (dom)/resolve 9 -js (dom)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-lesson9 -js (dom)/resolve 9 -js (dom)/main.js" afterDir="false" />
+    <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/hw-lesson1-js/resolve 1-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson1-js/resolve 1-js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-3/page-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-3/page-1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-3/page-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-3/page-2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-7/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson10 -js (event loops)/resolve 10 -js events/task-8/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson2-js/cons -js (array)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson2-js/cons -js (array)/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson2-js/resolve 2 -js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson2-js/resolve 2 -js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson3-js/cons 3-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson3-js/cons 3-js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson3-js/resolve 3- js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson3-js/resolve 3- js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson4-js/cons 4 -js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-lesson4-js/cons 4 -js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson5 -js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson5 -js (call-b func)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson5 -js/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson5 -js (call-b func)/scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson6 -js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson6 -js (arr metods)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson6 -js/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson6 -js (arr metods)/scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson8 -js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson8 -js (func cons - classes)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-lesson8 -js/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson8 -js (func cons - classes)/scripts/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +88,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/iCloudDrive/JS Complex Lessons/Lections OKten sept-2023/!HomeWork/sept-2023-JS/sept-2023-JS",
+    "last_opened_file_path": "D:/iCloudDrive/JS Complex Lessons/Lections OKten sept-2023/!HomeWork/sept-2023-JS/sept-2023-JS/hw-lesson10 -js (event loops)/resolve 10 -js events",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -94,10 +101,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson10 -js (event loops)\resolve 10 -js events" />
       <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS" />
       <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson5 -js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson10 -js (event loops)\resolve 10 -js events\task-3\page-1" />
       <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson10 -js (event loops)\styles" />
     </key>
   </component>
@@ -121,7 +130,7 @@
       <workItem from="1702333961862" duration="430000" />
       <workItem from="1702500674638" duration="7546000" />
       <workItem from="1702570692565" duration="9717000" />
-      <workItem from="1703000378928" duration="28489000" />
+      <workItem from="1703000378928" duration="30516000" />
     </task>
     <task id="LOCAL-00001" summary="add hw lesson 1 JS">
       <option name="closed" value="true" />
@@ -267,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703178281023</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="1">
+      <option name="closed" value="true" />
+      <created>1703194142290</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1703194142290</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +307,8 @@
     <MESSAGE value="add hw lesson 10 JS.1" />
     <MESSAGE value="add hw lesson 10 JS.2" />
     <MESSAGE value="add hw lesson 10 JS.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw lesson 10 JS.3" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
