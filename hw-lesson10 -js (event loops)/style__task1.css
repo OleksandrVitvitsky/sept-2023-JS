@@ -96,7 +96,7 @@ form input:focus{
     display: flex;
     gap: 10px;
 }
-.btn{
+.btns-box .btn{
     width: 100%;
     height: 40px;
     background-color: #3a3f37;

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style__sessions.css">
+</head>
+<body>
+<script>
+    let arrSessions = JSON.parse(localStorage.getItem('sessions'));
+    const mainBox = document.createElement('div');
+    mainBox.classList.add('mainBox');
+    for (let i = 0; i < arrSessions.length; i++) {
+        let arrSession = arrSessions[i];
+        let itemBox = document.createElement('div');
+        itemBox.classList.add('itemBox');
+        let h2 = document.createElement('h2');
+        let parag = document.createElement('p');
+        h2.innerText = `Session # ${i+1}`;
+        let innerDate = new Date(arrSession);
+        let dateSession = innerDate.toLocaleDateString();
+        let timeSession = innerDate.toLocaleTimeString();
+
+        parag.innerHTML = `<b>Date: ${dateSession} <br>
+            time: ${timeSession}</b>`;
+        itemBox.appendChild(h2);
+        itemBox.appendChild(parag);
+        mainBox.appendChild(itemBox);
+
+    }
+
+    document.body.appendChild(mainBox);
+
+</script>
+</body>
+</html>
