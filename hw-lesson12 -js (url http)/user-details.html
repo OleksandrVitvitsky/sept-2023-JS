@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>user-details</title>
+</head>
+<body>
+
+<script>
+
+    let baseUrl = 'https://jsonplaceholder.typicode.com';
+    let baseList = 'users';
+
+   function getParamsUserId () {
+       return new URL(location.href).searchParams.get('id');
+    }
+
+   const userId  = getParamsUserId();
+
+    const getUserDetails = async (url) => {
+        await fetch(url)
+            .then(data => data.json())
+            .then(data => domStructureUserDetails(data));
+    }
+
+    void getUserDetails(baseUrl + '/' + baseList + '/' + userId);
+
+    function createUserDetails(object,ul) {
+        for (const objectKey in object) {
+            let li = document.createElement('li')
+            if (typeof object[objectKey] !== 'object') {
+                li.innerText = `${objectKey}:  ${object[objectKey]}`;
+                 ul.appendChild(li)
+            } else {
+                li.innerText = `${objectKey}`;
+                let newUl = document.createElement('ul');
+                createUserDetails(object[objectKey], newUl);
+                li.appendChild(newUl)
+        }
+            ul.appendChild(li)
+        }
+    }
+    const domStructureUserDetails =(user)=> {
+        let ul = document.createElement('ul')
+        console.log(user);
+        createUserDetails(user,ul);
+        document.body.append(ul);
+    }
+
+</script>
+</body>
+</html>
