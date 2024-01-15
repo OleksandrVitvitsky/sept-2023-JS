@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    background-size: cover;
+    background-blend-mode: screen;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#heading__userDetails, #wrap__userDetail, #mainWrapPosts, #mainWrapPost, #mainWrapComments{
+    background: #f1f1f1;
+    width: 85%;
+    border: 1px solid #76767617;
+}
+span {
+    text-decoration: underline;
+}
+#wrap__userDetail, #wrapPost{
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+    align-items: center;
+}
+
+#wrap__userDetail>ul, #wrapPost>ul {
+    position: relative;
+    left: -20vw;
+}
+#button__UserPosts{
+    margin: 2%;
+    width: 90%;
+    border-radius: 4px;
+    border: 2px solid #76767617;;
+    text-align: center;
+    align-items: center;
+    font-size: 1.4em;
+    background-color: #f1d664;
+}
+
+#wrapForPosts{
+    height: 50%;
+}
+#wrapForPosts, #wrapForComments{
+
+    padding-top:1vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    gap: 1vw;
+
+
+}
+
+#wrapForComments{
+    height: 50%;
+}
+
+#post > *, #wrapComment>*{
+    margin: 0.5vw;
+}
+#post, #wrapComment{
+
+    width: 20%;
+    height: 100%;
+    border: #51ace8 solid 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding-left: 0.5vw!important;
+    overflow: auto;
+
+}
+
+#wrapComment{
+    /*height: 50%;*/
+    width: 25%;
+}
+#mainWrapComments{
+gap: 2vh;
+}
+.wrapUserPostLink{
+    width: 65%;
+    border-radius: 4px;
+    border: 2px solid #76767617;;
+    text-align: center;
+    align-items: center;
+    font-size: 1.2em;
+    background-color: #f1d664;
+}
+.wrapUserPostLink > a {
+    text-decoration: none;
+    color: #010302;
+}
+
+#wrapPost > h1 {
+    text-align: left;
+    width: 90%;
+    color: #010302;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    font-weight: normal;
+}

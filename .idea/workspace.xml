@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="789b3ad7-38a2-478c-bff8-f0c72da6ac56" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/hw-project JS/task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-project JS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-project JS/posts/post-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-project JS/posts/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-project JS/posts/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-project JS/user-details/user-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-project JS/user-details/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-project JS/user-details/user-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-project JS/users/main-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-project JS/users/userStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-lesson12 -js (url http)/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw-lesson12 -js (url http)/scripts/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -51,25 +60,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/iCloudDrive/JS Complex Lessons/Lections OKten sept-2023/!HomeWork/sept-2023-JS/sept-2023-JS/hw-lesson10 -js (event loops)/resolve 10 -js events&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Node.js.user-details.js.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/iCloudDrive/JS Complex Lessons/Lections OKten sept-2023/!HomeWork/sept-2023-JS/sept-2023-JS/hw-lesson10 -js (event loops)/resolve 10 -js events",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson10 -js (event loops)\resolve 10 -js events" />
@@ -77,10 +87,21 @@
       <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson5 -js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw-project JS/users" />
       <recent name="$PROJECT_DIR$/hw-lection13 -js (closures etc recursive)/lection 13 (closures etc map)" />
       <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson10 -js (event loops)\resolve 10 -js events\task-3\page-1" />
       <recent name="D:\iCloudDrive\JS Complex Lessons\Lections OKten sept-2023\!HomeWork\sept-2023-JS\sept-2023-JS\hw-lesson10 -js (event loops)\styles" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="user-details.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw-project JS/user-details/user-details.js" working-dir="$PROJECT_DIR$/hw-project JS/user-details">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.user-details.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -109,7 +130,7 @@
       <workItem from="1704410748319" duration="701000" />
       <workItem from="1705152112261" duration="1210000" />
       <workItem from="1705153331936" duration="28000" />
-      <workItem from="1705153367109" duration="740000" />
+      <workItem from="1705153367109" duration="35405000" />
     </task>
     <task id="LOCAL-00001" summary="add hw lesson 1 JS">
       <option name="closed" value="true" />
@@ -279,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705153279607</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="1">
+      <option name="closed" value="true" />
+      <created>1705156743159</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1705156743159</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
